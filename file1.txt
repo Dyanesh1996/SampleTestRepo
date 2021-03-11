@@ -1,0 +1,7 @@
+This is content for file1
+
+I'm editing this file using vi command and gonna save and close the file using q:
+
+Byee!!
+
+asasasas
